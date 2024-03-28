@@ -12,14 +12,15 @@ function App() {
         setIsLoaded(true);
       });
 
-    console.log(backendData.location.country);
+    console.log(backendData?.location?.country);
   }, [isLoaded]);
   return (
     <div>
-      {typeof backendData.current === null && backendData.locaition === null ? (
+      {typeof backendData?.current === null &&
+      backendData?.locaition === null ? (
         <p>Loading...</p>
       ) : (
-        <p>{backendData.location.country}</p>
+        <p>{backendData?.location?.country}</p>
       )}
     </div>
   );
