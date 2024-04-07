@@ -1,0 +1,831 @@
+{
+	"code": 200,
+	"data": [
+		{
+			"id": "65b7e297bf13b1bd72cf98f6",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 0 ",
+			"create_at": 1706549911832,
+			"update_at": 1706549911832
+		},
+		{
+			"id": "65b7e2b9bf13b1bd72cf9903",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 1 ",
+			"create_at": 1706549945450,
+			"update_at": 1706549945450
+		},
+		{
+			"id": "65b7e2e9bf13b1bd72cf9913",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 2 ",
+			"create_at": 1706549993587,
+			"update_at": 1706549993587
+		},
+		{
+			"id": "65b7e311bf13b1bd72cf991d",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 3 ",
+			"create_at": 1706550033647,
+			"update_at": 1706550033647
+		},
+		{
+			"id": "65b7e333bf13b1bd72cf992a",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 4 ",
+			"create_at": 1706550067298,
+			"update_at": 1706550067298
+		},
+		{
+			"id": "65b7e359bf13b1bd72cf9937",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 5 ",
+			"create_at": 1706550105924,
+			"update_at": 1706550105924
+		},
+		{
+			"id": "65b7e379bf13b1bd72cf9943",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 6 ",
+			"create_at": 1706550137560,
+			"update_at": 1706550137560
+		},
+		{
+			"id": "65b7e3a7bf13b1bd72cf9951",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 7 ",
+			"create_at": 1706550183581,
+			"update_at": 1706550183581
+		},
+		{
+			"id": "65b7e3dabf13b1bd72cf9962",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 8 ",
+			"create_at": 1706550234765,
+			"update_at": 1706550234765
+		},
+		{
+			"id": "65b7e414bf13b1bd72cf9974",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 9 ",
+			"create_at": 1706550292443,
+			"update_at": 1706550292443
+		},
+		{
+			"id": "65b7e445bf13b1bd72cf9983",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 10 ",
+			"create_at": 1706550341317,
+			"update_at": 1706550341317
+		},
+		{
+			"id": "65b7e474bf13b1bd72cf998e",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 11 ",
+			"create_at": 1706550388824,
+			"update_at": 1706550388824
+		},
+		{
+			"id": "65b7e493bf13b1bd72cf999a",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 12 ",
+			"create_at": 1706550419847,
+			"update_at": 1706550419847
+		},
+		{
+			"id": "65b7e4b6bf13b1bd72cf99a8",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 13 ",
+			"create_at": 1706550454172,
+			"update_at": 1706550454172
+		},
+		{
+			"id": "65b7e4e2bf13b1bd72cf99b5",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 14 ",
+			"create_at": 1706550498522,
+			"update_at": 1706550498522
+		},
+		{
+			"id": "65b7e506bf13b1bd72cf99c2",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 15 ",
+			"create_at": 1706550534841,
+			"update_at": 1706550534841
+		},
+		{
+			"id": "65b7e527bf13b1bd72cf99d0",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 16 ",
+			"create_at": 1706550567107,
+			"update_at": 1706550567107
+		},
+		{
+			"id": "65b7e542bf13b1bd72cf99de",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 17 ",
+			"create_at": 1706550594779,
+			"update_at": 1706550594779
+		},
+		{
+			"id": "65b7e56dbf13b1bd72cf99ed",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 18 ",
+			"create_at": 1706550637179,
+			"update_at": 1706550637179
+		},
+		{
+			"id": "65b7e58dbf13b1bd72cf99fb",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 19 ",
+			"create_at": 1706550669868,
+			"update_at": 1706550669868
+		},
+		{
+			"id": "65b7e5aebf13b1bd72cf9a08",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 20 ",
+			"create_at": 1706550702660,
+			"update_at": 1706550702660
+		},
+		{
+			"id": "65b7e5d3bf13b1bd72cf9a19",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 21 ",
+			"create_at": 1706550739045,
+			"update_at": 1706550739045
+		},
+		{
+			"id": "65b7e605bf13b1bd72cf9a29",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 22 ",
+			"create_at": 1706550789503,
+			"update_at": 1706550789503
+		},
+		{
+			"id": "65b7e62bbf13b1bd72cf9a37",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 23 ",
+			"create_at": 1706550827483,
+			"update_at": 1706550827483
+		},
+		{
+			"id": "65b7e63fbf13b1bd72cf9a46",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 24 ",
+			"create_at": 1706550847134,
+			"update_at": 1706550847134
+		},
+		{
+			"id": "65b7e661bf13b1bd72cf9a50",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 25 ",
+			"create_at": 1706550881097,
+			"update_at": 1706550881097
+		},
+		{
+			"id": "65b7e688bf13b1bd72cf9a61",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 26 ",
+			"create_at": 1706550920346,
+			"update_at": 1706550920346
+		},
+		{
+			"id": "65b7e6afbf13b1bd72cf9a6c",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 27 ",
+			"create_at": 1706550959394,
+			"update_at": 1706550959394
+		},
+		{
+			"id": "65b7e6cfbf13b1bd72cf9a7b",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 28 ",
+			"create_at": 1706550991473,
+			"update_at": 1706550991473
+		},
+		{
+			"id": "65b7e701bf13b1bd72cf9a8a",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 29 ",
+			"create_at": 1706551041133,
+			"update_at": 1706551041133
+		},
+		{
+			"id": "65b7e71bbf13b1bd72cf9a96",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 30 ",
+			"create_at": 1706551067841,
+			"update_at": 1706551067841
+		},
+		{
+			"id": "65b7e74ebf13b1bd72cf9aa5",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 31 ",
+			"create_at": 1706551118633,
+			"update_at": 1706551118633
+		},
+		{
+			"id": "65b7e787bf13b1bd72cf9ab2",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 32 ",
+			"create_at": 1706551175994,
+			"update_at": 1706551175994
+		},
+		{
+			"id": "65b7e7b2bf13b1bd72cf9abe",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 33 ",
+			"create_at": 1706551218164,
+			"update_at": 1706551218164
+		},
+		{
+			"id": "65b7e7debf13b1bd72cf9ace",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 34 ",
+			"create_at": 1706551262413,
+			"update_at": 1706551262413
+		},
+		{
+			"id": "65b7e80dbf13b1bd72cf9ada",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 35 ",
+			"create_at": 1706551309354,
+			"update_at": 1706551309354
+		},
+		{
+			"id": "65b7e852bf13b1bd72cf9ae5",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 36 ",
+			"create_at": 1706551378351,
+			"update_at": 1706551378351
+		},
+		{
+			"id": "65b7e876bf13b1bd72cf9af2",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 37 ",
+			"create_at": 1706551414784,
+			"update_at": 1706551414784
+		},
+		{
+			"id": "65b7e8a3bf13b1bd72cf9b00",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 38 ",
+			"create_at": 1706551459954,
+			"update_at": 1706551459954
+		},
+		{
+			"id": "65b7e8c2bf13b1bd72cf9b11",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 39 ",
+			"create_at": 1706551490724,
+			"update_at": 1706551490724
+		},
+		{
+			"id": "65b7e901bf13b1bd72cf9b1f",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 40 ",
+			"create_at": 1706551553554,
+			"update_at": 1706551553554
+		},
+		{
+			"id": "65b7e942bf13b1bd72cf9b2d",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 41 ",
+			"create_at": 1706551618067,
+			"update_at": 1706551618067
+		},
+		{
+			"id": "65b7e96abf13b1bd72cf9b40",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 42 ",
+			"create_at": 1706551658319,
+			"update_at": 1706551658319
+		},
+		{
+			"id": "65b7e9acbf13b1bd72cf9b49",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 43 ",
+			"create_at": 1706551724284,
+			"update_at": 1706551724284
+		},
+		{
+			"id": "65b7e9d7bf13b1bd72cf9b54",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 44 ",
+			"create_at": 1706551767110,
+			"update_at": 1706551767110
+		},
+		{
+			"id": "65b7e9fcbf13b1bd72cf9b60",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 45 ",
+			"create_at": 1706551804836,
+			"update_at": 1706551804836
+		},
+		{
+			"id": "65b7ea18bf13b1bd72cf9b6e",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 46 ",
+			"create_at": 1706551832365,
+			"update_at": 1706551832365
+		},
+		{
+			"id": "65b7ea49bf13b1bd72cf9b7a",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 47 ",
+			"create_at": 1706551881991,
+			"update_at": 1706551881991
+		},
+		{
+			"id": "65b7ea6ebf13b1bd72cf9b86",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 48 ",
+			"create_at": 1706551918936,
+			"update_at": 1706551918936
+		},
+		{
+			"id": "65b7ea8dbf13b1bd72cf9b92",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 49 ",
+			"create_at": 1706551949204,
+			"update_at": 1706551949204
+		},
+		{
+			"id": "65b7ea96bf13b1bd72cf9b94",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 49.5 ",
+			"create_at": 1706551958239,
+			"update_at": 1706551958239
+		},
+		{
+			"id": "65b7eabfbf13b1bd72cf9bb1",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 50 ",
+			"create_at": 1706551999312,
+			"update_at": 1706551999312
+		},
+		{
+			"id": "65b7eaddbf13b1bd72cf9bbc",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 51 ",
+			"create_at": 1706552029018,
+			"update_at": 1706552029018
+		},
+		{
+			"id": "65b7eb0bbf13b1bd72cf9bcd",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 52 ",
+			"create_at": 1706552075066,
+			"update_at": 1706552075066
+		},
+		{
+			"id": "65b7eb8abf13b1bd72cf9bdf",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 53 ",
+			"create_at": 1706552202553,
+			"update_at": 1706552202553
+		},
+		{
+			"id": "65b7ebeebf13b1bd72cf9bf3",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 54 ",
+			"create_at": 1706552302528,
+			"update_at": 1706552302528
+		},
+		{
+			"id": "65b7ec0cbf13b1bd72cf9c03",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 55 ",
+			"create_at": 1706552332921,
+			"update_at": 1706552332921
+		},
+		{
+			"id": "65b7ec2dbf13b1bd72cf9c0f",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 56 ",
+			"create_at": 1706552365845,
+			"update_at": 1706552365845
+		},
+		{
+			"id": "65b7ec40bf13b1bd72cf9c1b",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 57 ",
+			"create_at": 1706552384391,
+			"update_at": 1706552384391
+		},
+		{
+			"id": "65b7ec6dbf13b1bd72cf9c23",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 58 ",
+			"create_at": 1706552429726,
+			"update_at": 1706552429726
+		},
+		{
+			"id": "65b7eca3bf13b1bd72cf9c38",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 59 ",
+			"create_at": 1706552483041,
+			"update_at": 1706552483041
+		},
+		{
+			"id": "65b7ecdabf13b1bd72cf9c54",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 60 ",
+			"create_at": 1706552538689,
+			"update_at": 1706552538689
+		},
+		{
+			"id": "65b7ed1abf13b1bd72cf9c64",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 61 ",
+			"create_at": 1706552602394,
+			"update_at": 1706552602394
+		},
+		{
+			"id": "65b7ed39bf13b1bd72cf9c7d",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 62 ",
+			"create_at": 1706552633591,
+			"update_at": 1706552633591
+		},
+		{
+			"id": "65b7ed82bf13b1bd72cf9c8b",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 63 ",
+			"create_at": 1706552706325,
+			"update_at": 1706552706325
+		},
+		{
+			"id": "65b7eda2bf13b1bd72cf9c99",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 64 ",
+			"create_at": 1706552738576,
+			"update_at": 1706552738576
+		},
+		{
+			"id": "65b7edc3bf13b1bd72cf9cb4",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 65 ",
+			"create_at": 1706552771878,
+			"update_at": 1706552771878
+		},
+		{
+			"id": "65b7ee0cbf13b1bd72cf9cc6",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 66 ",
+			"create_at": 1706552844674,
+			"update_at": 1706552844674
+		},
+		{
+			"id": "65b7ee4dbf13b1bd72cf9cd7",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 67 ",
+			"create_at": 1706552909945,
+			"update_at": 1706552909945
+		},
+		{
+			"id": "65b7ee8ebf13b1bd72cf9ce6",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 68 ",
+			"create_at": 1706552974524,
+			"update_at": 1706552974524
+		},
+		{
+			"id": "65b7eebbbf13b1bd72cf9cf4",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 69 ",
+			"create_at": 1706553019024,
+			"update_at": 1706553019024
+		},
+		{
+			"id": "65b7eedbbf13b1bd72cf9d02",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 70 ",
+			"create_at": 1706553051223,
+			"update_at": 1706553051223
+		},
+		{
+			"id": "65b7ef0abf13b1bd72cf9d15",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 71 ",
+			"create_at": 1706553098612,
+			"update_at": 1706553098612
+		},
+		{
+			"id": "65b7ef41bf13b1bd72cf9d26",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 72 ",
+			"create_at": 1706553153314,
+			"update_at": 1706553153314
+		},
+		{
+			"id": "65b7ef7ebf13b1bd72cf9d36",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 73 ",
+			"create_at": 1706553214723,
+			"update_at": 1706553214723
+		},
+		{
+			"id": "65b7efa3bf13b1bd72cf9d45",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 74 ",
+			"create_at": 1706553251708,
+			"update_at": 1706553251708
+		},
+		{
+			"id": "65b7efe3bf13b1bd72cf9d55",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 75 ",
+			"create_at": 1706553315651,
+			"update_at": 1706553315651
+		},
+		{
+			"id": "65b7f00abf13b1bd72cf9d61",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 76 ",
+			"create_at": 1706553354128,
+			"update_at": 1706553354128
+		},
+		{
+			"id": "65b7f03bbf13b1bd72cf9d6f",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 77 ",
+			"create_at": 1706553403020,
+			"update_at": 1706553403020
+		},
+		{
+			"id": "65b7f063bf13b1bd72cf9d7e",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 78 ",
+			"create_at": 1706553443798,
+			"update_at": 1706553443798
+		},
+		{
+			"id": "65b7f093bf13b1bd72cf9d8b",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 79 ",
+			"create_at": 1706553491028,
+			"update_at": 1706553491028
+		},
+		{
+			"id": "65b7f0cfbf13b1bd72cf9d9a",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 80 ",
+			"create_at": 1706553551062,
+			"update_at": 1706553551062
+		},
+		{
+			"id": "65b7f0f9bf13b1bd72cf9da8",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 81 ",
+			"create_at": 1706553593843,
+			"update_at": 1706553593843
+		},
+		{
+			"id": "65b7f114bf13b1bd72cf9db7",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 82 ",
+			"create_at": 1706553620550,
+			"update_at": 1706553620550
+		},
+		{
+			"id": "65b7f134bf13b1bd72cf9dc6",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 83 ",
+			"create_at": 1706553652843,
+			"update_at": 1706553652843
+		},
+		{
+			"id": "65b7f156bf13b1bd72cf9dd4",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 84 ",
+			"create_at": 1706553686687,
+			"update_at": 1706553686687
+		},
+		{
+			"id": "65b7f1cdbf13b1bd72cf9de4",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 85 ",
+			"create_at": 1706553805172,
+			"update_at": 1706553805172
+		},
+		{
+			"id": "65b7f225bf13b1bd72cf9df2",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 86 ",
+			"create_at": 1706553893022,
+			"update_at": 1706553893022
+		},
+		{
+			"id": "65b7f23dbf13b1bd72cf9dff",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 87 ",
+			"create_at": 1706553917285,
+			"update_at": 1706553917285
+		},
+		{
+			"id": "65b7f257bf13b1bd72cf9e0c",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 88 ",
+			"create_at": 1706553943100,
+			"update_at": 1706553943100
+		},
+		{
+			"id": "65b7f278bf13b1bd72cf9e1c",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 89 ",
+			"create_at": 1706553976763,
+			"update_at": 1706553976763
+		},
+		{
+			"id": "65b7f28abf13b1bd72cf9e27",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 90 ",
+			"create_at": 1706553994369,
+			"update_at": 1706553994369
+		},
+		{
+			"id": "65b7f29dbf13b1bd72cf9e33",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 91 ",
+			"create_at": 1706554013339,
+			"update_at": 1706554013339
+		},
+		{
+			"id": "65b7f2d7bf13b1bd72cf9e41",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 92 ",
+			"create_at": 1706554071583,
+			"update_at": 1706554071583
+		},
+		{
+			"id": "65b7f31bbf13b1bd72cf9e50",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 93 ",
+			"create_at": 1706554139909,
+			"update_at": 1706554139909
+		},
+		{
+			"id": "65b7f345bf13b1bd72cf9e5e",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 94 ",
+			"create_at": 1706554181903,
+			"update_at": 1706554181903
+		},
+		{
+			"id": "65b7f35bbf13b1bd72cf9e6c",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 95 ",
+			"create_at": 1706554203922,
+			"update_at": 1706554203922
+		},
+		{
+			"id": "65b7f374bf13b1bd72cf9e7a",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 96 ",
+			"create_at": 1706554228501,
+			"update_at": 1706554228501
+		},
+		{
+			"id": "65b7f38dbf13b1bd72cf9e99",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 97 ",
+			"create_at": 1706554253976,
+			"update_at": 1706554253976
+		},
+		{
+			"id": "65b7f3a2bf13b1bd72cf9eb6",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 98 ",
+			"create_at": 1706554274603,
+			"update_at": 1706554274603
+		},
+		{
+			"id": "65b7f3bdbf13b1bd72cf9ece",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 99 ",
+			"create_at": 1706554301132,
+			"update_at": 1706554301132
+		},
+		{
+			"id": "65b7f3e3bf13b1bd72cf9f01",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 100 ",
+			"create_at": 1706554339713,
+			"update_at": 1706554339713
+		},
+		{
+			"id": "65b7f405bf13b1bd72cf9f28",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 101 ",
+			"create_at": 1706554373750,
+			"update_at": 1706554373750
+		},
+		{
+			"id": "65b7f425bf13b1bd72cf9f55",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 102 ",
+			"create_at": 1706554405570,
+			"update_at": 1706554405570
+		},
+		{
+			"id": "65b7f443bf13b1bd72cf9f7c",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 103 ",
+			"create_at": 1706554435560,
+			"update_at": 1706554435560
+		},
+		{
+			"id": "65b7f45ebf13b1bd72cf9fa3",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 104 ",
+			"create_at": 1706554462544,
+			"update_at": 1706554462544
+		},
+		{
+			"id": "65b7f46fbf13b1bd72cf9fb6",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 105 ",
+			"create_at": 1706554479511,
+			"update_at": 1706554479511
+		},
+		{
+			"id": "65b7f47abf13b1bd72cf9fc2",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 106 ",
+			"create_at": 1706554490152,
+			"update_at": 1706554490152
+		},
+		{
+			"id": "65b7f48bbf13b1bd72cf9feb",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 107 ",
+			"create_at": 1706554507625,
+			"update_at": 1706554507625
+		},
+		{
+			"id": "65b7f49dbf13b1bd72cfa004",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 108 ",
+			"create_at": 1706554525443,
+			"update_at": 1706554525443
+		},
+		{
+			"id": "65c2ecdc20833194c0c5de3f",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 109 ",
+			"create_at": 1707273436604,
+			"update_at": 1707273436604
+		},
+		{
+			"id": "65c8ce4f20833194c0c5ea31",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 110 ",
+			"create_at": 1707658831081,
+			"update_at": 1707658831081
+		},
+		{
+			"id": "65e06f7a20833194c0c60f71",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 111 ",
+			"create_at": 1709207418025,
+			"update_at": 1709207418025
+		},
+		{
+			"id": "65e06f8820833194c0c60f86",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 112 ",
+			"create_at": 1709207432943,
+			"update_at": 1709207432943
+		},
+		{
+			"id": "65f3fb6120833194c0c648bf",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 113 ",
+			"create_at": 1710488417386,
+			"update_at": 1710488417386
+		},
+		{
+			"id": "65f52cc520833194c0c64d1f",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 114 ",
+			"create_at": 1710566597303,
+			"update_at": 1710566597303
+		},
+		{
+			"id": "65ffe4e620833194c0c65ff3",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 115 ",
+			"create_at": 1711269094197,
+			"update_at": 1711269094197
+		},
+		{
+			"id": "660cd25f20833194c0c68344",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"title": "Chapter 116 ",
+			"create_at": 1712116319861,
+			"update_at": 1712116319861
+		}
+	]
+}

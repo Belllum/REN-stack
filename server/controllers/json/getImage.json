@@ -1,0 +1,54 @@
+{
+	"code": 200,
+	"data": [
+		{
+			"id": "65b7e283bf13b1bd72cf98f2",
+			"chapter": "65b7e297bf13b1bd72cf98f6",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"index": 0,
+			"link": "https://usc1.contabostorage.com/scraper/mangas/65b7e27bbf13b1bd72cf98ee/chapters/bf3e9caa-30ec-4008-af23-c1469622c853/0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=c10e9464b360c31ce8abea9b266076f6%2F20240407%2Fdefault%2Fs3%2Faws4_request&X-Amz-Date=20240407T061251Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3928fb71e43cd6d32ea667d25160b6001c11908b952b244f14513581a8c598bc"
+		},
+		{
+			"id": "65b7e297bf13b1bd72cf98f5",
+			"chapter": "65b7e297bf13b1bd72cf98f6",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"index": 1,
+			"link": "https://usc1.contabostorage.com/scraper/mangas/65b7e27bbf13b1bd72cf98ee/chapters/bf3e9caa-30ec-4008-af23-c1469622c853/1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=c10e9464b360c31ce8abea9b266076f6%2F20240407%2Fdefault%2Fs3%2Faws4_request&X-Amz-Date=20240407T061251Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5e541baeb152be80e1e3272f82d150f221da58a7533305af8f4d39d0f8aff9c9"
+		},
+		{
+			"id": "65b7e280bf13b1bd72cf98f0",
+			"chapter": "65b7e297bf13b1bd72cf98f6",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"index": 2,
+			"link": "https://usc1.contabostorage.com/scraper/mangas/65b7e27bbf13b1bd72cf98ee/chapters/bf3e9caa-30ec-4008-af23-c1469622c853/2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=c10e9464b360c31ce8abea9b266076f6%2F20240407%2Fdefault%2Fs3%2Faws4_request&X-Amz-Date=20240407T061251Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=afda55a88858059ada04bf3542078490ffbe7779e0e74419ca66b278b812f76e"
+		},
+		{
+			"id": "65b7e296bf13b1bd72cf98f4",
+			"chapter": "65b7e297bf13b1bd72cf98f6",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"index": 3,
+			"link": "https://usc1.contabostorage.com/scraper/mangas/65b7e27bbf13b1bd72cf98ee/chapters/bf3e9caa-30ec-4008-af23-c1469622c853/3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=c10e9464b360c31ce8abea9b266076f6%2F20240407%2Fdefault%2Fs3%2Faws4_request&X-Amz-Date=20240407T061251Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1e0cb9637d41394f86a1e4e206f30b6df6df447af5ae5f10f0768850f0ea2856"
+		},
+		{
+			"id": "65b7e280bf13b1bd72cf98ef",
+			"chapter": "65b7e297bf13b1bd72cf98f6",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"index": 4,
+			"link": "https://usc1.contabostorage.com/scraper/mangas/65b7e27bbf13b1bd72cf98ee/chapters/bf3e9caa-30ec-4008-af23-c1469622c853/4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=c10e9464b360c31ce8abea9b266076f6%2F20240407%2Fdefault%2Fs3%2Faws4_request&X-Amz-Date=20240407T061251Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0b772498ff3145e261e6c221bfe97d1a387106595a04d68ca9d720fc82c0b869"
+		},
+		{
+			"id": "65b7e285bf13b1bd72cf98f3",
+			"chapter": "65b7e297bf13b1bd72cf98f6",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"index": 5,
+			"link": "https://usc1.contabostorage.com/scraper/mangas/65b7e27bbf13b1bd72cf98ee/chapters/bf3e9caa-30ec-4008-af23-c1469622c853/5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=c10e9464b360c31ce8abea9b266076f6%2F20240407%2Fdefault%2Fs3%2Faws4_request&X-Amz-Date=20240407T061251Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6867aa2c91ef0d2363c7ff5895dbc6c0036e2f26b355fb8c1168eee3d1e0230d"
+		},
+		{
+			"id": "65b7e281bf13b1bd72cf98f1",
+			"chapter": "65b7e297bf13b1bd72cf98f6",
+			"manga": "65b7e27bbf13b1bd72cf98ee",
+			"index": 6,
+			"link": "https://usc1.contabostorage.com/scraper/mangas/65b7e27bbf13b1bd72cf98ee/chapters/bf3e9caa-30ec-4008-af23-c1469622c853/6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=c10e9464b360c31ce8abea9b266076f6%2F20240407%2Fdefault%2Fs3%2Faws4_request&X-Amz-Date=20240407T061251Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fecccb3fd788caf014dac92f498b9b91cfebb32416ee44d5c448f8ff54c6af8a"
+		}
+	]
+}

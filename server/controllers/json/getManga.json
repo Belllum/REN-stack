@@ -1,0 +1,24 @@
+{
+	"code": 200,
+	"data": {
+		"id": "65b7e27bbf13b1bd72cf98ee",
+		"title": "Return of the Frozen Player",
+		"sub_title": "얼어붙은 플레이어의 귀환",
+		"status": "ongoing",
+		"thumb": "https://usc1.contabostorage.com/scraper/mangas/65b7e27bbf13b1bd72cf98ee/thumb.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=c10e9464b360c31ce8abea9b266076f6%2F20240407%2Fdefault%2Fs3%2Faws4_request&X-Amz-Date=20240407T061145Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=90190fb683a1011bc7c7d30f4cc7ca75e099a2287fff1391a2832a6e1acc0c08",
+		"summary": "5 years after the world changed, the final boss appeared. [The final boss for area Earth, the Frost Queen, has appeared.] The final boss! If we can just defeat her, our lives will go back to normal! The top five players in the world, including Specter Seo Jun-ho, finally defeated the Frost Queen... But they fell into a deep slumber. 25 years passed. \"A second floor? It didn't end when the Frost Queen died? Specter awakes from his slumber.\n",
+		"authors": [
+			"愛のチカラで恋をするのだ"
+		],
+		"genres": [
+			"Action",
+			"Fantasy",
+			"Adventure"
+		],
+		"nsfw": true,
+		"type": "korea",
+		"total_chapter": 118,
+		"create_at": 1706549883582,
+		"update_at": 1712116319867
+	}
+}

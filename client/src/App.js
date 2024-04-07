@@ -1,27 +1,21 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+
+import Home from "./Pages/Home";
+import Latest from "./Pages/Latest";
+import Chapters from "./Pages/Chapters";
+import ChapterImage from "./Pages/ChapterImage";
 
 function App() {
-  const [backendData, setBackendData] = useState([{}]);
-  const [isLoaded, setIsLoaded] = useState(false);
-
-  useEffect(() => {
-    fetch("/api")
-      .then((response) => response.json())
-      .then((data) => {
-        setBackendData(data);
-        setIsLoaded(true);
-      });
-
-    console.log(backendData.location.country);
-  }, [isLoaded]);
   return (
-    <div>
-      {typeof backendData.current === null && backendData.locaition === null ? (
-        <p>Loading...</p>
-      ) : (
-        <p>{backendData.location.country}</p>
-      )}
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/latest" element={<Latest />} />
+        <Route path="/chapters/:id" element={<Chapters />} />
+        <Route path="/chapter/:id" element={<ChapterImage />} />
+      </Routes>
+    </Router>
   );
 }
 
