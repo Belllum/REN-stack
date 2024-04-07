@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-
+import { Helmet } from "react-helmet";
+import SearchAppBar from "../Components/Navbar";
 function ChapterImage() {
   const { id } = useParams();
   console.log("manasdasdga:", id);
@@ -20,6 +21,7 @@ function ChapterImage() {
 
   return (
     <div>
+      <SearchAppBar></SearchAppBar>
       <div
         style={{
           display: "flex",

@@ -79,7 +79,15 @@ export default function SearchAppBar() {
             aria-label="open drawer"
             sx={{ mr: 2 }}
           >
-            <MenuIcon />
+            <div style={{ width: "40px", height: "40px", borderRadius: "50%" }}>
+              <img
+                src="https://cdn.leonardo.ai/users/2f8f0f0d-67c6-4821-ab78-592082274369/generations/2124516f-0eaa-4378-985f-449f44549847/Default_anime_website_logo_a_cute_anime_girl_with_a_strawhat_2.jpg"
+                alt="Icon"
+                style={{ width: "100%", height: "100%", borderRadius: "50%" }}
+              />
+            </div>
+
+            {/* <MenuIcon /> */}
           </IconButton>
           <Typography
             variant="h6"

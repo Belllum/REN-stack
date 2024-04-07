@@ -3,17 +3,17 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://cdn.leonardo.ai/users/2f8f0f0d-67c6-4821-ab78-592082274369/generations/2124516f-0eaa-4378-985f-449f44549847/Default_anime_website_logo_a_cute_anime_girl_with_a_strawhat_2.jpg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://cdn.leonardo.ai/users/2f8f0f0d-67c6-4821-ab78-592082274369/generations/2124516f-0eaa-4378-985f-449f44549847/Default_anime_website_logo_a_cute_anime_girl_with_a_strawhat_2.jpg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://cdn.leonardo.ai/users/2f8f0f0d-67c6-4821-ab78-592082274369/generations/2124516f-0eaa-4378-985f-449f44549847/Default_anime_website_logo_a_cute_anime_girl_with_a_strawhat_2.jpg",
       "type": "image/png",
       "sizes": "512x512"
     }
