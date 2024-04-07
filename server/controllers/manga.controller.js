@@ -1,6 +1,8 @@
 // const Product = require("../models/product.model");
 const axios = require("axios");
 
+require("dotenv").config();
+
 const fetchManga = async (req, res) => {
   const options = {
     method: "GET",
@@ -11,8 +13,8 @@ const fetchManga = async (req, res) => {
       type: "all",
     },
     headers: {
-      "X-RapidAPI-Key": "0494aa35c7msh5e3069b2d3f2292p12ba06jsn3ae018cf6f44",
-      "X-RapidAPI-Host": "mangaverse-api.p.rapidapi.com",
+      "X-RapidAPI-Key": process.env.KEY,
+      "X-RapidAPI-Host": process.env.HOST,
     },
   };
 
@@ -35,8 +37,8 @@ const fetchLatest = async (req, res) => {
       type: "all",
     },
     headers: {
-      "X-RapidAPI-Key": "0494aa35c7msh5e3069b2d3f2292p12ba06jsn3ae018cf6f44",
-      "X-RapidAPI-Host": "mangaverse-api.p.rapidapi.com",
+      "X-RapidAPI-Key": process.env.KEY,
+      "X-RapidAPI-Host": process.env.HOST,
     },
   };
 
@@ -60,8 +62,8 @@ const searchManga = async (req, res) => {
       type: "all",
     },
     headers: {
-      "X-RapidAPI-Key": "0494aa35c7msh5e3069b2d3f2292p12ba06jsn3ae018cf6f44",
-      "X-RapidAPI-Host": "mangaverse-api.p.rapidapi.com",
+      "X-RapidAPI-Key": process.env.KEY,
+      "X-RapidAPI-Host": process.env.HOST,
     },
   };
 
@@ -82,8 +84,8 @@ const getManga = async (req, res) => {
       id: id, //659524dd597f3b00281f06ff
     },
     headers: {
-      "X-RapidAPI-Key": "0494aa35c7msh5e3069b2d3f2292p12ba06jsn3ae018cf6f44",
-      "X-RapidAPI-Host": "mangaverse-api.p.rapidapi.com",
+      "X-RapidAPI-Key": process.env.KEY,
+      "X-RapidAPI-Host": process.env.HOST,
     },
   };
 
@@ -104,8 +106,8 @@ const fetchChapters = async (req, res) => {
       id: id, //'659524dd597f3b00281f06ff'
     },
     headers: {
-      "X-RapidAPI-Key": "0494aa35c7msh5e3069b2d3f2292p12ba06jsn3ae018cf6f44",
-      "X-RapidAPI-Host": "mangaverse-api.p.rapidapi.com",
+      "X-RapidAPI-Key": process.env.KEY,
+      "X-RapidAPI-Host": process.env.HOST,
     },
   };
 
@@ -126,8 +128,8 @@ const fetchImages = async (req, res) => {
       id: id, //'659524e9597f3b00281f070d'
     },
     headers: {
-      "X-RapidAPI-Key": "0494aa35c7msh5e3069b2d3f2292p12ba06jsn3ae018cf6f44",
-      "X-RapidAPI-Host": "mangaverse-api.p.rapidapi.com",
+      "X-RapidAPI-Key": process.env.KEY,
+      "X-RapidAPI-Host": process.env.HOST,
     },
   };
 
