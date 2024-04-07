@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from "react";
-
-function Latest() {
+import { useParams } from "react-router-dom";
+import SearchAppBar from "../Components/Navbar";
+function Search() {
+  const { search } = useParams();
   const [mangaList, setMangaList] = useState({});
   const [isLoaded, setIsLoaded] = useState(false);
 
   useEffect(() => {
-    fetch("/api/manga/latest")
+    fetch(`/api/manga/search/${search}`)
       .then((response) => response.json())
       .then((data) => {
         setMangaList(data);
@@ -17,6 +19,7 @@ function Latest() {
 
   return (
     <div style={{ fontFamily: "Arial, sans-serif", padding: "20px" }}>
+      <SearchAppBar></SearchAppBar>
       {!isLoaded ? (
         <p>Loading...</p>
       ) : (
@@ -36,7 +39,7 @@ function Latest() {
                 borderRadius: "5px",
               }}
             >
-              <a href={`/manga/${item.id}`}>
+              <a href={`/chapters/${item.id}`}>
                 <img
                   src={item.thumb}
                   alt={item.title}
@@ -64,4 +67,4 @@ function Latest() {
   );
 }
 
-export default Latest;
+export default Search;

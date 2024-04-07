@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-
+import SearchAppBar from "../Components/Navbar";
 function Home() {
-  const [mangaList, setMangaList] = useState([]);
+  const [mangaList, setMangaList] = useState({});
   const [isLoaded, setIsLoaded] = useState(false);
 
   useEffect(() => {
@@ -17,6 +17,7 @@ function Home() {
 
   return (
     <div style={{ fontFamily: "Arial, sans-serif", padding: "20px" }}>
+      <SearchAppBar></SearchAppBar>
       {!isLoaded ? (
         <p>Loading...</p>
       ) : (
