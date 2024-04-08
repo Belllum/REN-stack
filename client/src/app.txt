@@ -1,0 +1,44 @@
+import React, { useEffect, useState } from "react";
+import { useHistory, Redirect } from "react-router-dom";
+
+function Home() {
+  const [backendData, setBackendData] = useState([{}]);
+  const [isLoaded, setIsLoaded] = useState(false);
+  const history = useHistory();
+
+  useEffect(() => {
+    fetch("/api")
+      .then((response) => response.json())
+      .then((data) => {
+        setBackendData(data);
+        setIsLoaded(true);
+      });
+
+    console.log(backendData);
+  }, [isLoaded]);
+
+  const redirectToAnotherPage = () => {
+    history.push("/page");
+    window.location.reload();
+  };
+  //   useEffect(() => {
+  //     if (isLoaded) {
+  //       window.location.reload();
+  //     }
+  //   }, [isLoaded]);
+
+  return (
+    <div>
+      {/* {typeof backendData?.current === null &&
+      backendData?.locaition === null ? (
+        <p>Loading...</p>
+      ) : (
+        <p>{backendData?.location?.country}</p>
+      )} */}
+      <p>Loading...</p>
+      <button onClick={redirectToAnotherPage}>Go to Another Page</button>
+    </div>
+  );
+}
+
+export default Home;

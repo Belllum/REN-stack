@@ -1,28 +1,17 @@
-import React, { useEffect, useState } from "react";
+// App.js or index.js
+import React from "react";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import Home from "./Home";
+import Page from "./Page";
 
 function App() {
-  const [backendData, setBackendData] = useState([{}]);
-  const [isLoaded, setIsLoaded] = useState(false);
-
-  useEffect(() => {
-    fetch("/api")
-      .then((response) => response.json())
-      .then((data) => {
-        setBackendData(data);
-        setIsLoaded(true);
-      });
-
-    console.log(backendData?.location?.country);
-  }, [isLoaded]);
   return (
-    <div>
-      {typeof backendData?.current === null &&
-      backendData?.locaition === null ? (
-        <p>Loading...</p>
-      ) : (
-        <p>{backendData?.location?.country}</p>
-      )}
-    </div>
+    <Router>
+      <Switch>
+        <Route path="/" exact component={Home} />
+        <Route path="/page" component={Page} />
+      </Switch>
+    </Router>
   );
 }
 
